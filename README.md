@@ -186,9 +186,9 @@ Once saved, the Streamlit app will work as expected.
 
 ## 🔮 Future Product Ideas Inspired by Project Experience
 
-While building this project, I identified two opportunities to further enhance the Snowflake developer experience:
+While building this project, I identified an opportunity to further enhance the Snowflake developer experience:
 
-### 1. [Context-Aware SQL Copilot for Feature Engineering](https://docs.google.com/document/d/1Z-HQx90oDcu1zacMwie6zvGnZomQS-slF4m3_k7wrlI)
+### [Context-Aware SQL Copilot for Feature Engineering](https://docs.google.com/document/d/1Z-HQx90oDcu1zacMwie6zvGnZomQS-slF4m3_k7wrlI)
 A built-in assistant within SQL worksheets that suggests and auto-generates feature engineering queries based on a project’s schema.  
 Example prompts:
 - *"Would you like to add a rolling 3-order average?"*
@@ -197,14 +197,8 @@ Example prompts:
 **Impact:**  
 Accelerates ML preparation, lowers SQL barriers, and bridges data warehousing with AI workflows.
 
-### 2. Expanded Sandbox Mode for ML Experimentation
-Trial accounts currently lack access to Snowpark ML and Cortex without scheduling a sales consultation.  
-Introducing a Sandbox Mode would temporarily enable these features with service limits to manage costs.
-
 **Impact:**  
 Empowers developers, students, and independent builders to explore Snowflake’s full AI/ML capabilities and complete end-to-end projects before formalizing enterprise agreements.
-
-> **Next Step:** I have a capl scheudled a sales representative on 4/28 to explore my options for upgrading my account. I plan to expand this project further by incorporating Snowpark ML model training and Cortex GenAI functions once my account upgrade is complete.
 
 ---
 
