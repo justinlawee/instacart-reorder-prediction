@@ -197,9 +197,6 @@ Example prompts:
 **Impact:**  
 Accelerates ML preparation, lowers SQL barriers, and bridges data warehousing with AI workflows.
 
-**Impact:**  
-Empowers developers, students, and independent builders to explore Snowflake’s full AI/ML capabilities and complete end-to-end projects before formalizing enterprise agreements.
-
 ---
 
 ## 📁 Project Structure
