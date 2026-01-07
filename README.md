@@ -1,4 +1,4 @@
-# 🛒 Instacart Reorder Prediction (Snowflake + dbt + ML + Streamlit)
+# 🛒 Instacart Reorder Prediction (Snowflake + dbt + Streamlit)
 
 This project builds a complete **AI-powered reorder prediction pipeline** on **Snowflake**, transforming raw transaction data into modeled reorder scores and surfacing them through a rich Snowsight dashboard.
 
